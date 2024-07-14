@@ -105,10 +105,10 @@ function Home() {
                  <a href='#'className='font-bold'>Ln</a>
             </div>
             <div className='mt-[120px] flex items-center justify-between'>
-               <div className='flex items-center '>
+               <a href='#' className='flex items-center '>
                 <img src={Iconwhite} alt="logo" />
                 <img src={Logowhite} alt="icon" />
-               </div>
+               </a>
                <p className='text-[#F2F2F2] '>Copyright 2021. All rights reserved.</p>
             </div>
         </div>
